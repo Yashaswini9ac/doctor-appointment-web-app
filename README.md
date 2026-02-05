@@ -17,11 +17,11 @@ Designed and developed the complete web application including frontend, backend 
 
 ## Screenshots
 ### Login Page
-![Login](login.png)
+![Login](file:///C:/Users/yasha/OneDrive/Pictures/project/login.png)
 
 ### Booking Page
-![Booking](booking.png)
+![Booking](file:///C:/Users/yasha/OneDrive/Pictures/project/booking.png)
 
 ### Admin Dashboard
-![Admin](admin.png)
+![Admin](file:///C:/Users/yasha/OneDrive/Pictures/project/admin.png)
 
