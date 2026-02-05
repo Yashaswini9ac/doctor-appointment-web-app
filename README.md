@@ -16,4 +16,12 @@ HTML | CSS | JavaScript | PHP | MySQL | XAMPP
 Designed and developed the complete web application including frontend, backend and database. Implemented booking workflow and tested functionality.
 
 ## Screenshots
+### Login Page
+![Login](login.png)
+
+### Booking Page
+![Booking](booking.png)
+
+### Admin Dashboard
+![Admin](admin.png)
 
