@@ -1,2 +1,19 @@
-# doctor-appointment-web-app
-Doctor appointment booking web application using HTML PHP MySQL
+# Doctor Appointment Web Application
+
+Full-stack web application developed using HTML, CSS, PHP, and MySQL.
+
+## Features
+- User login and registration
+- Doctor appointment booking system
+- Admin dashboard to manage appointments
+- MySQL database integration
+- Responsive UI
+
+## Technologies
+HTML | CSS | JavaScript | PHP | MySQL | XAMPP
+
+## My Role
+Designed and developed the complete web application including frontend, backend and database. Implemented booking workflow and tested functionality.
+
+## Screenshots
+
